@@ -17,3 +17,10 @@ Step 4: Change the version of the Game
 
 Step 5: Termination
 
+## Tetris Game Docker Images
+
+* [V1](https://hub.docker.com/r/shubnimkar/tetris)
+  (docker pull shubnimkar/tetris)
+
+* [V2](https://hub.docker.com/r/shubnimkar/tetris_v2)
+  (docker pull shubnimkar/tetris_v2)
