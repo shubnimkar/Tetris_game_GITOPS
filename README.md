@@ -5,11 +5,15 @@
 
 Find complete steps here in my blog : [GitOps Deployment of Tetris on Amazon EKS with Argo CD](https://medium.com/@shubnimkar/gitops-deployment-of-tetris-on-amazon-eks-with-argo-cd-affa8741b707)
 
-##Steps:
+## Steps:
 
 Step 1: Create IAM Roles
+
 Step 2: Create EKS Cluster
+
 Step 3: ARGOCD SETUP
+
 Step 4: Change the version of the Game
+
 Step 5: Termination
 
